@@ -1,0 +1,16 @@
+C:\Users\Aluno\Desktop\AppMySql\AppMySql\bin\Debug\AppMySql.exe.config
+C:\Users\Aluno\Desktop\AppMySql\AppMySql\bin\Debug\AppMySql.exe
+C:\Users\Aluno\Desktop\AppMySql\AppMySql\bin\Debug\AppMySql.pdb
+C:\Users\Aluno\Desktop\AppMySql\AppMySql\bin\Debug\MySql.Data.dll
+C:\Users\Aluno\Desktop\AppMySql\AppMySql\bin\Debug\System.Memory.dll
+C:\Users\Aluno\Desktop\AppMySql\AppMySql\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Aluno\Desktop\AppMySql\AppMySql\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Aluno\Desktop\AppMySql\AppMySql\bin\Debug\System.Buffers.dll
+C:\Users\Aluno\Desktop\AppMySql\AppMySql\obj\Debug\AppMySql.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\AppMySql\AppMySql\obj\Debug\AppMySql.Properties.Resources.resources
+C:\Users\Aluno\Desktop\AppMySql\AppMySql\obj\Debug\AppMySql.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\AppMySql\AppMySql\obj\Debug\AppMySql.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\AppMySql\AppMySql\obj\Debug\AppMySql.csproj.Up2Date
+C:\Users\Aluno\Desktop\AppMySql\AppMySql\obj\Debug\AppMySql.exe
+C:\Users\Aluno\Desktop\AppMySql\AppMySql\obj\Debug\AppMySql.pdb
+C:\Users\Aluno\Desktop\AppMySql\AppMySql\obj\Debug\AppMySql.Form1.resources

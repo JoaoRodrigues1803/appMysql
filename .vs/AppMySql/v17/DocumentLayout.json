@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aluno\\Desktop\\AppMySql\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8202220-E93C-4D56-B889-B557959BE7D5}|AppMySql\\AppMySql.csproj|c:\\users\\aluno\\desktop\\appmysql\\appmysql\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8202220-E93C-4D56-B889-B557959BE7D5}|AppMySql\\AppMySql.csproj|solutionrelative:appmysql\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8202220-E93C-4D56-B889-B557959BE7D5}|AppMySql\\AppMySql.csproj|c:\\users\\aluno\\desktop\\appmysql\\appmysql\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C8202220-E93C-4D56-B889-B557959BE7D5}|AppMySql\\AppMySql.csproj|solutionrelative:appmysql\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8202220-E93C-4D56-B889-B557959BE7D5}|AppMySql\\AppMySql.csproj|c:\\users\\aluno\\desktop\\appmysql\\appmysql\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8202220-E93C-4D56-B889-B557959BE7D5}|AppMySql\\AppMySql.csproj|solutionrelative:appmysql\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8202220-E93C-4D56-B889-B557959BE7D5}|AppMySql\\AppMySql.csproj|c:\\users\\aluno\\desktop\\appmysql\\appmysql\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8202220-E93C-4D56-B889-B557959BE7D5}|AppMySql\\AppMySql.csproj|solutionrelative:appmysql\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\AppMySql\\AppMySql\\Form1.cs",
+              "RelativeDocumentMoniker": "AppMySql\\Form1.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\AppMySql\\AppMySql\\Form1.cs",
+              "RelativeToolTip": "AppMySql\\Form1.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAqwAIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T12:02:25.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\AppMySql\\AppMySql\\Program.cs",
+              "RelativeDocumentMoniker": "AppMySql\\Program.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\AppMySql\\AppMySql\\Program.cs",
+              "RelativeToolTip": "AppMySql\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T11:00:52.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Conexao.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\AppMySql\\AppMySql\\Conexao.cs",
+              "RelativeDocumentMoniker": "AppMySql\\Conexao.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\AppMySql\\AppMySql\\Conexao.cs",
+              "RelativeToolTip": "AppMySql\\Conexao.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAAAHYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T10:36:19.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\AppMySql\\AppMySql\\Form1.cs",
+              "RelativeDocumentMoniker": "AppMySql\\Form1.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\AppMySql\\AppMySql\\Form1.cs [Design]",
+              "RelativeToolTip": "AppMySql\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T10:34:46.359Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
